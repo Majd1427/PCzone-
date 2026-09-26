@@ -1,0 +1,1 @@
+window.PCZONE_CONFIG={SUPABASE_URL:"https://YOUR-PROJECT.supabase.co",SUPABASE_ANON_KEY:"YOUR_SUPABASE_ANON_KEY",ORDER_FUNCTION_URL:"https://YOUR-PROJECT.supabase.co/functions/v1/send-order-email"};
